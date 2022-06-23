@@ -1,10 +1,13 @@
-> Who is streamsniperrty?
+### Who is streamsniperrty?
+- Labib Mahmud
 - HIGH SCHOOL STUDENT
 - Network Enthusiast
 - Arduinos
 - Web Developer
 - I use Arch BTW (kinda lol)
-- Personally like San Andreas as my favorite game.
+
+### Alright, but any fun stuff you do?
+> Skateboarding, basketball, anime/manga, games, etc. I do like learning new stuff. I suck at a lot of stuff, but who cares.
 
 <!---
 streamsniperrty/streamsniperrty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
