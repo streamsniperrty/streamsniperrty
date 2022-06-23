@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @streamsniperrty
-- 🌱 I’m currently learning the basics of coding, even though I already have some knowledge. (Coding Club here at MCSM)
-- 💞️ I’m looking to collaborate on programming projects.
-- 📫 How to reach me: (646) 785-3866, labibmahmudeusha1@gmail.com
+> Who is streamsniperrty?
+- HIGH SCHOOL STUDENT
+- Network Enthusiast
+- Arduinos
+- Web Developer
+- I use Arch BTW (kinda lol)
+- Personally like San Andreas as my favorite game.
 
 <!---
 streamsniperrty/streamsniperrty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
