@@ -2,7 +2,7 @@
 - Labib Mahmud
 - HIGH SCHOOL STUDENT
 - Network Enthusiast
-- Arduinos
+- Arduinos and Electrical Components
 - Web Developer
 - I use Arch BTW (kinda lol)
 
